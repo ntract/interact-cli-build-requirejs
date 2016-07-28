@@ -1,0 +1,10 @@
+{
+  "name": "interact-cli-plugins-build-requirejs",
+  "license": "GPL-3",
+  "npm": {
+    "requirejs":"*"
+  },
+  "main": [
+    "index.js"
+  ]
+}
