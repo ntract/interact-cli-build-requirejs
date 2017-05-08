@@ -1,5 +1,5 @@
 {
-  "name": "ntract-cli-plugins-build-requirejs",
+  "name": "ntract-cli-build-requirejs",
   "license": "GPL-3",
   "npm": {
     "requirejs":"*"
